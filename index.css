@@ -76,4 +76,8 @@ ul {
       height: 40px;
       border-radius: 20px;
   }
-  
+  footer{
+    height: 400px;
+    background-color: #C9ECB5;
+    padding-top: 100px;
+}
