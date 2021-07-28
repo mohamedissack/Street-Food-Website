@@ -11,7 +11,7 @@ Here is a working live demo:
 
 
 ## Mobile support
-The  website is compatible with devices of all sizes 
+The  website is compatible with devices of all sizes
 
 ## Development
 Want to contribute? Awesome!
@@ -31,6 +31,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Author
 - M0hamed Issack Abdi
+
 
 ## License
 [MIT]

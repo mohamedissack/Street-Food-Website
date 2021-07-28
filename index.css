@@ -5,12 +5,12 @@ ul {
     padding: 0;
     overflow: hidden;
   }
-  
+
   li {
     float: left;
     padding: 20px;
   }
-  
+
   li a {
     display: block;
     color:black;
@@ -46,9 +46,8 @@ ul {
     float: left;
     width: 33.33%;
     align-items: center;
-    
+
   }
-  
   /* Clear floats after the columns */
   .row:after {
     content: "";
@@ -59,7 +58,7 @@ ul {
     display:block;width:100%;
     background-color: #C9ECB5;
     height: 500px;
-  } 
+  }
   .grin{
       text-align: center;
   }
@@ -76,12 +75,17 @@ ul {
       border-radius: 20px;
   }
   footer{
-      height: 400px;
-      background-color: #C9ECB5;
-      padding-top: 100px;
-  }
-  /*
-  .eclipse{
+    height: 400px;
+    background-color: #C9ECB5;
+    padding-top: 100px;
+}
+
+                    span {
+                      content: "\2605";
+                    }
+
+
+  /* .eclipse{
     border-radius: 50%;
     height: 92vw;
     width: 68vw;
@@ -90,6 +94,4 @@ ul {
     top: -46em;
     right: -19em;
     z-index: 3;
-  }
-/
-  
+  } */
