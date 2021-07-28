@@ -4,7 +4,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    
   }
   
   li {
@@ -81,3 +80,16 @@ ul {
       background-color: #C9ECB5;
       padding-top: 100px;
   }
+  /*
+  .eclipse{
+    border-radius: 50%;
+    height: 92vw;
+    width: 68vw;
+    background-color: #649549;
+    position: absolute;
+    top: -46em;
+    right: -19em;
+    z-index: 3;
+  }
+/
+  
